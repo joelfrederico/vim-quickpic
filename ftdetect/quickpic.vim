@@ -2,4 +2,4 @@
 "
 " Main file
 "
-autocmd BufRead,BufNewFile rpinput set filetype=quickpic
+autocmd BufRead,BufNewFile *rpinput set filetype=quickpic
